@@ -2,7 +2,7 @@
   "name": "وتر",
   "short_name": "وتر",
   "description": "مشغّل موسيقى وفيديو شخصي",
-  "id": "./?app=watar2",
+  "id": "./index.html",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
